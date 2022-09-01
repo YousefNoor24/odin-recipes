@@ -1,2 +1,2 @@
 # odin-recipes
- Creating a recipe website using HTML
+ Created a recipe website using HTML. This website was made for The Odin Project under the Foundations Course. 
